@@ -1,0 +1,19 @@
+p {
+    background-color: pink;
+    font-family: Verdana, DejaVu,sans-serif
+}
+
+#div4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#div2 {
+    font-size: 36px;
+    color: blue;
+}
+
+.size24px {
+    font-size: 24px;
+}
